@@ -7,6 +7,6 @@ I'm an INTJ 🏠 maker/developer, 🏢 Product Owner, based in the UK.
 - 🔭 I’m currently working on automated website performance testing
 - 🌱 I’m currently learning Laravel and Vue.js
 - 👯 I’m looking to collaborate on any Open Source project where I can add value
-- 💬 Ask me about PHP
+- 💬 Ask me about Linux, PHP, or making bread
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fun facts are not always fun! 🤣
