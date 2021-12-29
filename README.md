@@ -11,3 +11,4 @@ I'm an INTJ 🏠 maker/developer, 🏢 Product Owner, based in the UK.
 - 👯 I’m looking to collaborate on any Open Source project where I can add value
 - 💬 Ask me about making bread!
 - 😄 Pronouns: he/him
+- 🇬🇧 born, but 🇪🇺 at ❤️
